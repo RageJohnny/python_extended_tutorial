@@ -1,0 +1,6 @@
+name: Johannes Georg Larcher
+age: 27
+languages: ['Deutsch', 'Englisch', 'Italienisch']
+has_python_experience: True
+has_java_experience: True
+has_javascript_experience: True
